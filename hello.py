@@ -1,4 +1,3 @@
 if __name__ == '__main__':
-	print("world")
 	print("hello")
 	print("123")
